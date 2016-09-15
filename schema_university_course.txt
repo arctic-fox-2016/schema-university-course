@@ -1,2 +1,1 @@
-
-
+university-course-schema: http://imgur.com/a/IAZkQ
